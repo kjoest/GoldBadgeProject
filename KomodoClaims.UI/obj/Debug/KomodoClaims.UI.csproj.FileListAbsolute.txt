@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\bin\Debug\KomodoClaimsClassLibrary.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\bin\Debug\KomodoClaimsClassLibrary.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CopyComplete

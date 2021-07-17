@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\bin\Debug\KomodoBadges.UI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\bin\Debug\KomodoBadges.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\bin\Debug\KomodoBadges.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\obj\Debug\KomodoBadges.UI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\obj\Debug\KomodoBadges.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\obj\Debug\KomodoBadges.UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\obj\Debug\KomodoBadges.UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\bin\Debug\KomodoBadgesClassLibrary.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\bin\Debug\KomodoBadgesClassLibrary.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeConsoleApplication\KomodoBadges.UI\obj\Debug\KomodoBadges.UI.csproj.CopyComplete
