@@ -38,7 +38,7 @@ namespace KomodoClaimsClassLibrary
 
         public bool DeleleExistingClaims(string existingClaim)
         {
-            Claim claim= GetExistingClaimsByType(existingClaim);
+            Claim claim = GetExistingClaimsByType(existingClaim);
             
             if(claim == null)
             {
